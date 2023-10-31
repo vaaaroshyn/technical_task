@@ -8,7 +8,7 @@ import java.util.ArrayList;
 public class App {
     public static void main(String[] args) {
         if (args.length < 1) {
-            System.out.println("Použití: java NumberProcessor <vstupní soubor> [výstupní soubor]");
+            System.out.println("Použití: java App" + " <vstupní soubor> [výstupní soubor]");
             return;
         }
 
